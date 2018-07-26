@@ -18,6 +18,9 @@ body {
 #logo h2{
   font-size: 2.2em;
 }
+.col-3 p{
+  
+}
 }
 @media only screen and (max-width:750px){
   #navbar nav a{
